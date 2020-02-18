@@ -6,3 +6,5 @@ this commit has a goal to verify that I am not fucking useless, at least, learni
 this is the line for pull#2 to master directly
 
 this is a comment for the pull#3 to reame-change branch
+
+this is a comment for the pull#4 to a new branch and pull request starting (GingerElve-patch-1)
